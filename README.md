@@ -1,7 +1,7 @@
 # opn_expression
 
 # McFarlane Lab -- University of Calgary -- Hotchkiss Brain Institute -- Code Author: Samuel Storey
-# Original dataest -- https://github.com/jiewwwang/Single-cell-retinal-regeneration
+# Original dataset -- https://github.com/jiewwwang/Single-cell-retinal-regeneration
 # Publication -- Manuscript in preparation
 
 # Blackshaw_zebrafish_uninjured.R includes all information about downlodading dataset
